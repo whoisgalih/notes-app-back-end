@@ -1,1 +1,3 @@
 src/api/authentications/index.js
+src/api/collaborations/index.js
+src/utils/index.js
